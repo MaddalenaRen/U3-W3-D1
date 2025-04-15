@@ -69,6 +69,7 @@ var MiaAuto = {
 //i GEnerics permettono di definire funzioni, classi o interfacce che sono in grado di lavorare con diversi tipi di dati
 //possono lavorare con diversi tipi di dati, mantenendo però la tipizzazione.
 //Sono utili quando vuoi scrivere codice riutilizzabile ma fortemente tipizzato.
+//si trovano tra le parentesi angolari
 //Migliorano la riusabilità del codice
 //Mantengono la sicurezza dei tipi
 //Eviti di riscrivere funzioni simili per ogni tipo
